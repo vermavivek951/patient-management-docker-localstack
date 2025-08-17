@@ -1,0 +1,13 @@
+### POST request to create a new patient
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "John Doe kafka account",
+  "email":"test_bill_account_new_kafka@example.com",
+  "address": "123 main street",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2025-07-27"
+}
+
+###
