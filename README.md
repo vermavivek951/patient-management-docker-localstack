@@ -1,0 +1,1 @@
+A Patient Management System built using Springboot and containerized and deployed using Docker and LocalStack.

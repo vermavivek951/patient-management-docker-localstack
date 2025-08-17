@@ -1,0 +1,41 @@
+### Java ###
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+### Spring Boot ###
+# Local dev files
+*.env
+*.local.properties
+
+# Logs
+*.out
+*.log
+
+# H2 / SQLite database files
+*.db
+*.h2.db
+*.mv.db
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# IntelliJ generated folders
+out/
+classes/
+generated/
